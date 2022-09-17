@@ -1,5 +1,5 @@
 # bmicalc-cpp-medium
-A program that lets you calculate your own BMI automatically without the hassle of computing it manually.
+A program that lets you calculate your own BMI automatically without the hassle of computing it manually. 
 A mini-project I made solely for the purpose of experimenting C++ itself using CodeBlocks.
 
 
